@@ -1,0 +1,17 @@
+GET https://api.spotify.com/v1/tracks/audio-analysis/1YCXVdUCVqbwr6DSrX01vr
+
+###
+GET http://localhost:8080/vexento
+
+###
+
+POST http://localhost:8080/analyze-track
+content-type: application/json
+
+{
+  "id": "3lO4asvW4EIASqpMYKWJk7"
+}
+
+###
+
+GET https://accounts.spotify.com/authorize

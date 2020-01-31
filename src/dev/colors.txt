@@ -1,0 +1,4 @@
+{"danceability":0.497,"energy":0.58,"key":11,"loudness":-8.304,"mode":0,"speechiness":0.0415,"acousticness":0.308,"instrumentalness":0.138,"liveness":0.114,"valence":0.374,"tempo":96.031,"type":"audio_features","id":"2bLfsBWK60JZkMVm0lwcvl","uri":"spotify:track:2bLfsBWK60JZkMVm0lwcvl","track_href":"https://api.spotify.com/v1/tracks/2bLfsBWK60JZkMVm0lwcvl","analysis_url":"https://api.spotify.com/v1/audio-analysis/2bLfsBWK60JZkMVm0lwcvl","duration_ms":211015,"time_signature":4}
+
+pulse: #D3F6DB
+pulse border: #000
